@@ -1,6 +1,6 @@
 /* Frame and Display */
 .calculatorFrame {
-    width: 280px;
+    width: 300px;
     margin: 50px auto;
     padding: 20px;
     background-color: #1e1e1e;
@@ -49,7 +49,6 @@ button:active {
 
 /* Specific Button Widths */ 
 #equalsBtn {
-    grid-column: span 2;
     background-color: #4caf50;
     color: white;
 }
@@ -63,7 +62,8 @@ button:active {
 #divide,
 #multiply,
 #subtract,
-#addition {
+#addition,
+#squareRoot {
     background-color: #f0ad4e;
     color: white;
 }

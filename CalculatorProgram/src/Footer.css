@@ -1,9 +1,7 @@
 footer {
-    display: block;
     text-align: center;
-    padding: 160px 50px;
-    margin-bottom: block;
-    font-size: 20px;
+    padding: 260px;
+    font-size: 15px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
 }

@@ -78,7 +78,7 @@ function Calculator() {
         <button id="decimal" onClick={() => handleButtonClick('.')}>.</button>
         <button id="equalsBtn" onClick={() => handleButtonClick('=')}>=</button>
         </div>
-        </div>kdkdsdklsdklsdkldksdkldkldksldkldks
+        </div>
         </>
     );
 }
